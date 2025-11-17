@@ -1,7 +1,7 @@
 
   # Sports League Prototype
 
-  This is a code bundle for Sports League Prototype. The original project is available at https://www.figma.com/design/VeJqrKCiy3nQrnQlWjlCSQ/Sports-League-Prototype.
+  This is a code bundle for Sports League Prototype. The original project is available at https://pluck-exact-65920581.figma.site/ .
 
   ## Running the code
 
